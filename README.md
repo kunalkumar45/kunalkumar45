@@ -18,17 +18,35 @@ I am passionate about building modern, responsive, and user-friendly web applica
 
 ## 🛠️ Technical Skills  
 
-### **Frontend**  
-- HTML5, CSS3, JavaScript, TypeScript  
-- Angular, React, Next.js  
-- Bootstrap, Tailwind CSS, jQuery  
+## 🛠️ Technical Skills  
 
-### **Backend**  
-- Node.js, Express.js  
-- MongoDB, MySQL  
+<table>
+  <tr>
+    <td align="center" width="300">
+      <h3>Frontend</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
+    </td>
+    <td align="center" width="300">
+      <h3>Backend</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"
+    </td>
+    <td align="center" width="300">
+      <h3>Programming Languages</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+    </td>
+  </tr>
+</table>
 
-### **Programming Languages**  
-- Java, Python, JavaScript  
 
 ### **DevOps & Tools**  
 - Git, GitHub  
