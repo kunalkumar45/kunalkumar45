@@ -1,3 +1,5 @@
+/* style.css */
+
 .skills-container {
   display: flex;
   justify-content: center;
@@ -11,18 +13,18 @@
 }
 
 .skills-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, 60px);
-  gap: 15px;
+  display: flex;          /* use flex instead of grid */
+  flex-wrap: wrap;        /* move icons to next line if not enough space */
+  gap: 15px;              /* space between icons */
   justify-content: center;
   align-items: center;
   margin-top: 10px;
 }
 
 .skills-grid img {
-  width: 60px;
-  height: 60px;
-  object-fit: contain;
+  width: 45px;            /* fixed width */
+  height: 45px;           /* fixed height */
+  object-fit: contain;    /* keep aspect ratio */
   transition: transform 0.3s;
   cursor: pointer;
 }
