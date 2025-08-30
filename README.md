@@ -17,43 +17,7 @@ I am passionate about building modern, responsive, and user-friendly web applica
 ---
 
 ## 🛠️ Technical Skills
-<style>
-  /* style.css */
-
-.skills-container {
-  display: flex;
-  justify-content: center;
-  gap: 80px;
-  flex-wrap: wrap;
-  margin-bottom: 30px;
-}
-
-.skills-section {
-  text-align: center;
-}
-
-.skills-grid {
-  display: flex;          /* use flex instead of grid */
-  flex-wrap: wrap;        /* move icons to next line if not enough space */
-  gap: 15px;              /* space between icons */
-  justify-content: center;
-  align-items: center;
-  margin-top: 10px;
-}
-
-.skills-grid img {
-  width: 45px;            /* fixed width */
-  height: 45px;           /* fixed height */
-  object-fit: contain;    /* keep aspect ratio */
-  transition: transform 0.3s;
-  cursor: pointer;
-}
-
-.skills-grid img:hover {
-  transform: scale(1.2);
-}
-
-</style>
+<link rel="stylesheet" href="./css/style.css">
 
 <div class="skills-container">
 
@@ -61,13 +25,13 @@ I am passionate about building modern, responsive, and user-friendly web applica
   <div class="skills-section">
     <h3>Frontend</h3>
     <div class="skills-grid">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="50"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50"/>
     </div>
   </div>
 
@@ -75,9 +39,9 @@ I am passionate about building modern, responsive, and user-friendly web applica
   <div class="skills-section">
     <h3>Backend</h3>
     <div class="skills-grid">
-      <img src="./img/nodejs.svg" alt="NodeJS" />
-      <img src="./img/javascript.svg" alt="JavaScript" />
-      <img src="./img/mongodb.svg" alt="MongoDB" />
+      <img src="./img/nodejs.svg" alt="NodeJS" width="50"/>
+      <img src="./img/javascript.svg" alt="JavaScript" width="50"/>
+      <img src="./img/mongodb.svg" alt="MongoDB" width="50"/>
     </div>
   </div>
 
