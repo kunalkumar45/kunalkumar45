@@ -17,6 +17,7 @@ I am passionate about building modern, responsive, and user-friendly web applica
 ---
 
 ## 🛠️ Technical Skills
+
 <link rel="stylesheet" href="./css/style.css">
 
 <div class="skills-container">
@@ -25,13 +26,13 @@ I am passionate about building modern, responsive, and user-friendly web applica
   <div class="skills-section">
     <h3>Frontend</h3>
     <div class="skills-grid">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" style="margin-right: 10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" style="margin-right: 10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" style="margin-right: 10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" style="margin-right: 10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" width="50" style="margin-right: 10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50"  style="margin-right: 10px;"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" style="margin-right: 10px;"/>
     </div>
   </div>
 
@@ -39,9 +40,9 @@ I am passionate about building modern, responsive, and user-friendly web applica
   <div class="skills-section">
     <h3>Backend</h3>
     <div class="skills-grid">
-      <img src="./img/nodejs.svg" alt="NodeJS" width="50"/>
-      <img src="./img/javascript.svg" alt="JavaScript" width="50"/>
-      <img src="./img/mongodb.svg" alt="MongoDB" width="50"/>
+      <img src="./img/nodejs.svg" alt="NodeJS" width="50" style="margin-right: 10px;"/>
+      <img src="./img/javascript.svg" alt="JavaScript" width="50" style="margin-right: 10px;"/>
+      <img src="./img/mongodb.svg" alt="MongoDB" width="50" style="margin-right: 10px;"/>
     </div>
   </div>
 
