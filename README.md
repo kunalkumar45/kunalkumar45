@@ -17,25 +17,34 @@ I am passionate about building modern, responsive, and user-friendly web applica
 ---
 
 ## 🛠️ Technical Skills
+<link rel="stylesheet" href="./css/style.css">
 
-<div style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
-  <div style="text-align: center;">
+<div class="skills-container">
+
+  <!-- Frontend Skills -->
+  <div class="skills-section">
     <h3>Frontend</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="AngularJS" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
+    <div class="skills-grid">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="AngularJS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
+    </div>
   </div>
-  
-  <div style="text-align: center;">
+
+  <!-- Backend Skills -->
+  <div class="skills-section">
     <h3>Backend</h3>
-    <img src="./img/nodejs.svg" width="50" height="50" alt="NodeJS" />
-    <img src="./img/javascript.svg" width="50" height="50" alt="JavaScript" />
-    <img src="./img/mongodb.svg" width="50" height="50" alt="MongoDB" />
+    <div class="skills-grid">
+      <img src="./img/nodejs.svg" alt="NodeJS" />
+      <img src="./img/javascript.svg" alt="JavaScript" />
+      <img src="./img/mongodb.svg" alt="MongoDB" />
+    </div>
   </div>
+
 </div>
 
 ---
