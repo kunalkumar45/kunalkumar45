@@ -32,9 +32,9 @@ I am passionate about building modern, responsive, and user-friendly web applica
     </td>
     <td align="center" width="600">
       <h3>Backend</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg](https://www.svgrepo.com/show/303360/nodejs-logo.svg)" width="50"/>
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg](https://www.svgrepo.com/show/349419/javascript.svg)" width="50"/>
+      <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg](https://www.svgrepo.com/show/354090/mongodb.svg)" width="50"/>
     </td>
   </tr>
 </table>
