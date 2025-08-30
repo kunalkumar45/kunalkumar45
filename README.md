@@ -17,7 +17,43 @@ I am passionate about building modern, responsive, and user-friendly web applica
 ---
 
 ## 🛠️ Technical Skills
-<link rel="stylesheet" href="./css/style.css">
+<style>
+  /* style.css */
+
+.skills-container {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+
+.skills-section {
+  text-align: center;
+}
+
+.skills-grid {
+  display: flex;          /* use flex instead of grid */
+  flex-wrap: wrap;        /* move icons to next line if not enough space */
+  gap: 15px;              /* space between icons */
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.skills-grid img {
+  width: 45px;            /* fixed width */
+  height: 45px;           /* fixed height */
+  object-fit: contain;    /* keep aspect ratio */
+  transition: transform 0.3s;
+  cursor: pointer;
+}
+
+.skills-grid img:hover {
+  transform: scale(1.2);
+}
+
+</style>
 
 <div class="skills-container">
 
