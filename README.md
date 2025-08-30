@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Kunal Kumar
+![Header](https://raw.githubusercontent.com/kunalkumar45/kunalkumar45/main/banner.png)
 
-💻 **Frontend Developer | Web Enthusiast | Open Source Contributor**  
+# 👋 Hi, I'm Kunal Kumar  
+
+💻 **Frontend Developer | MEAN Stack Developer | Angular Developer**  
 
 I am passionate about building modern, responsive, and user-friendly web applications using **Angular, React, ExpressJs, NodeJS, MongoDB**.  
 
@@ -8,9 +10,9 @@ I am passionate about building modern, responsive, and user-friendly web applica
 
 ## 🎓 Education  
 
-| Degree | Institution | Year | University | CGPA |
-|--------|-------------|------|------------|------|
-| MCA    | Sikkim Manipal University| 2025-2027 | 
+| Degree | Institution | Year |
+|--------|-------------|------|
+| MCA    | Sikkim Manipal University | 2025–2027 |  
 
 ---
 
@@ -22,14 +24,14 @@ I am passionate about building modern, responsive, and user-friendly web applica
 - Bootstrap, Tailwind CSS, jQuery  
 
 ### **Backend**  
-- Node.js, Express.js   
-- MongoDB, MySQL, 
+- Node.js, Express.js  
+- MongoDB, MySQL  
 
 ### **Programming Languages**  
 - Java, Python, JavaScript  
 
 ### **DevOps & Tools**  
-- Git, GitHub,
+- Git, GitHub  
 
 ### **Other Tools**  
 - Microsoft Office (Word, Excel, PowerPoint – 2007, 2013, 2019, 365)  
@@ -38,19 +40,20 @@ I am passionate about building modern, responsive, and user-friendly web applica
 
 ## 💼 Work Experience  
 
-### **[Kosi Digital Services Pvt Ltd] (May 2024 – July 2025)**  
+### **Kosi Digital Services Pvt Ltd (May 2024 – July 2025)**  
 **Role:** Frontend Developer  
-**Skillset:** Angular, React Js, Bootstrap, TypeScript, HTML, CSS   
+**Skillset:** Angular, React Js, Bootstrap, TypeScript, HTML, CSS  
 **Responsibilities:**  
-- Creating responsive web pages    
+- Creating responsive web pages  
 
 ---
 
+
 ## 📫 How to Reach Me  
 
-- **Email:** kunalkumar8963@gmail.com  
-- **LinkedIn:** [[linkedin.com/in/your-link](https://linkedin.com/in/your-link](https://www.linkedin.com/in/kunalkumar8963/))  
-- **Portfolio:** [[your-portfolio-link.com](https://your-portfolio-link.com](https://kunalkumar45.github.io/myportfolio))  
+- **Email:** [kunalkumar8963@gmail.com](mailto:kunalkumar8963@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/kunalkumar8963](https://www.linkedin.com/in/kunalkumar8963/)  
+- **Portfolio:** [kunalkumar45.github.io/myportfolio](https://kunalkumar45.github.io/myportfolio)  
 
 ---
 
